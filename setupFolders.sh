@@ -2,3 +2,4 @@
 
 mkdir decks/
 mkdir cardJSONs/
+echo "Hi!"
